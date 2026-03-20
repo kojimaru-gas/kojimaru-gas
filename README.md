@@ -1,4 +1,12 @@
-## Hi there 👋
+# こじまる (kojimaru-gas)
+GASで業務効率化を楽しんでいます！
+
+### 🚀 My Status
+![Stats](https://github-readme-stats.vercel.app/api?username=kojimaru-gas&show_icons=true&theme=radical)
+
+### 🧰 Skills
+![GAS](https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?logo=google-apps-script&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
 <!--
 **kojimaru-gas/kojimaru-gas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
